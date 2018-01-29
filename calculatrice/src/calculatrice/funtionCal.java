@@ -7,4 +7,5 @@ public class funtionCal {
 	int somme = somA+somB; 
 
 
+
 }
