@@ -1,8 +1,13 @@
 
 public class funtionCal {
 	
-	int somA : Integer.parseInt (args[0]) ; 
-	int somB : Integer.parseInt (args[1]) ;
-	
+	int somA : Integer.parseInt; 
+	int somB : Integer.parseInt;
+
 	int somme = somA+somB;  
+	
+	int somA : Integer.parseInt; 
+	int somB : Integer.parseInt;
+	
+	int somme = somA-somB;
 }
